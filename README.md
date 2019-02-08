@@ -1,12 +1,12 @@
 **C#Basics**
-###
+***
 
 This is a program created and submitted by Mason Adrales for INFOTC 2040 at the University of Missouri.
 
-###
+***
 
-Mason Adrales
+**Mason Adrales**
 
-University of Missouri
+**University of Missouri**
 
-Information Technology
+**Information Technology**
